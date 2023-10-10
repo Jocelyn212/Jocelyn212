@@ -10,14 +10,14 @@
 
 ### Mis habilidades
 
-- 💻 [JS](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-js_hvhfre.gif)
-- 💻 [CSS](https://res.cloudinary.com/pruebaweb/image/upload/v1696914055/icons8-css-48_lzagch.png)
-- 💻 [HTML](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-html_rs77fm.gif)
-- 💻 [React](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-react_qos56f.gif)
-- 💻 [MongoDB](https://res.cloudinary.com/pruebaweb/image/upload/v1696914057/icons8-mongodb-a-cross-platform-document-oriented-database-program-24_fie2qa.png)
-- 💻 [Express](https://res.cloudinary.com/pruebaweb/image/upload/v1696914055/icons8-express-js-16_nligw2.png)
-- 💻 [Node.js](https://res.cloudinary.com/pruebaweb/image/upload/v1696914057/icons8-node-js-48_riolad.png)
-- 💻 [SQL](https://res.cloudinary.com/pruebaweb/image/upload/v1696914057/icons8-sql-48_dwpbpj.png)
+- ![JS](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-js_hvhfre.gif)
+- ![CSS](https://res.cloudinary.com/pruebaweb/image/upload/v1696914055/icons8-css-48_lzagch.png)
+- ![HTML](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-html_rs77fm.gif)
+- ![React](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-react_qos56f.gif)
+- ![MongoDB](https://res.cloudinary.com/pruebaweb/image/upload/v1696915020/icons8-mongodb-a-cross-platform-document-oriented-database-program-48_ftwfsp.png)
+- ![Express](https://res.cloudinary.com/pruebaweb/image/upload/v1696915256/icons8-express-js-48_vrj4qp.png)
+- ![Node.js](https://res.cloudinary.com/pruebaweb/image/upload/v1696914057/icons8-node-js-48_riolad.png)
+- ![SQL](https://res.cloudinary.com/pruebaweb/image/upload/v1696914057/icons8-sql-48_dwpbpj.png)
 - ...
 
 ### Contáctame
