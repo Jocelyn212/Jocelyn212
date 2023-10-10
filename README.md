@@ -10,14 +10,14 @@
 
 ### Mis habilidades
 
-- 💻 [JS](https://icons8.com/icon/tGvHBPJaKqEd/javascript)
-- 💻 [CSS](https://icons8.com/icon/21278/css3)
-- 💻 [HTML](https://icons8.com/icon/Lb0GijAhiD3r/html-filetype)
-- 💻 [React](https://icons8.com/icon/t5K2CR8feVdX/react)
-- 💻 [MongoDB](https://icons8.com/icon/8rKdRqZFLurS/mongodb-a-cross-platform-document-oriented-database-program)
-- 💻 [Express](https://icons8.com/icon/WNoJgbzDr3i2/express-js)
-- 💻 [Node.js](https://icons8.com/icon/hsPbhkOH4FMe/node-js)
-- 💻 [SQL](https://icons8.com/icon/13406/sql)
+- 💻 [JS](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-js_hvhfre.gif)
+- 💻 [CSS](https://res.cloudinary.com/pruebaweb/image/upload/v1696914055/icons8-css-48_lzagch.png)
+- 💻 [HTML](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-html_rs77fm.gif)
+- 💻 [React](https://res.cloudinary.com/pruebaweb/image/upload/v1696914056/icons8-react_qos56f.gif)
+- 💻 [MongoDB](https://res.cloudinary.com/pruebaweb/image/upload/v1696914057/icons8-mongodb-a-cross-platform-document-oriented-database-program-24_fie2qa.png)
+- 💻 [Express](https://res.cloudinary.com/pruebaweb/image/upload/v1696914055/icons8-express-js-16_nligw2.png)
+- 💻 [Node.js](https://res.cloudinary.com/pruebaweb/image/upload/v1696914057/icons8-node-js-48_riolad.png)
+- 💻 [SQL](https://res.cloudinary.com/pruebaweb/image/upload/v1696914057/icons8-sql-48_dwpbpj.png)
 - ...
 
 ### Contáctame
