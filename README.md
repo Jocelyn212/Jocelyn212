@@ -1,6 +1,5 @@
-
-
-![Fondo](https://res.cloudinary.com/pruebaweb/image/upload/v1696911368/4973ead72580df908af111b6770fe6ac_msqutb.jpg)
+<!-- Una imagen con un ancho de 300 píxeles y una altura de 200 píxeles -->
+<img src="https://res.cloudinary.com/pruebaweb/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1696916616/IMG_4131_ebn4ka.jpg" alt="Descripción de la imagen" width="200" height="200">
 
 # ¡Hola! Soy [Jocelyn C.] 👋
 
