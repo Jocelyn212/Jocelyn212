@@ -28,11 +28,10 @@
 
 - 📧 Correo:  [jocelyn.cf@gmail.com](mailto:jocelyn.cf@gmail.com)
 - 💼 LinkedIn: [jocelyn](www.linkedin.com/in/jocelyn-castro-flores)
-'''- 📄 Currículum: [Descargar mi Currículum](https://drive.google.com/file/d/1d29P9Q9G6v1_ZtjAYwENJIovt5mL078I/view?usp=share_link)'''
+<!-- - 📄 Currículum: [Descargar mi Currículum](https://drive.google.com/file/d/1d29P9Q9G6v1_ZtjAYwENJIovt5mL078I/view?usp=share_link) -->
 
 
-
-### ¡Hablemos!
+### ¡<!--Hablemos!
 
 ¡No dudes en contactarme si tienes alguna pregunta o una oportunidad de colaboración interesante! Estoy emocionada por lo que el futuro tiene reservado.
 
