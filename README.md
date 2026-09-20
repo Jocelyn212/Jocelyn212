@@ -4,7 +4,7 @@
 
 ### FULL-STACK DEVELOPER
 
-**Desarrollo web · Aplicaciones Full Stack · Soluciones digitales**
+**Desarrollo web · Aplicaciones Full Stack · IA y automatización**
 
 <br>
 
@@ -38,11 +38,11 @@
 
 ## SOBRE MÍ
 
-Desarrolladora **Full Stack** enfocada en crear aplicaciones web modernas, funcionales y cuidadas visualmente.
+Soy desarrolladora **Full Stack** y creo aplicaciones web y soluciones digitales completas, funcionales y cuidadas visualmente.
 
-Me gusta trabajar en proyectos completos, desde la interfaz hasta el backend, los datos y el despliegue.
+Trabajo en todo el ciclo del proyecto: interfaz, lógica de servidor, datos, infraestructura y despliegue en producción.
 
-Actualmente también desarrollo soluciones relacionadas con **IA, automatización, análisis web e infraestructura**.
+Actualmente desarrollo proyectos relacionados con **inteligencia artificial, automatización, análisis web e infraestructura**.
 
 </td>
 
@@ -64,7 +64,7 @@ Actualmente también desarrollo soluciones relacionadas con **IA, automatizació
 
 **También he trabajado con**
 
-<img src="https://skillicons.dev/icons?i=vue,angular" />
+<img src="https://skillicons.dev/icons?i=vue,angular,ionic" />
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ Actualmente también desarrollo soluciones relacionadas con **IA, automatizació
 
 # PROYECTOS DESTACADOS
 
-Aplicaciones propias y proyectos reales actualmente en producción.
+Una selección de aplicaciones propias y proyectos reales publicados en producción.
 
 </div>
 
@@ -101,7 +101,7 @@ Aplicaciones propias y proyectos reales actualmente en producción.
 
 **Plataforma Full Stack privada**
 
-Entorno propio para centralizar herramientas de gestión, análisis, infraestructura, automatización e inteligencia artificial.
+Entorno privado que centraliza herramientas de gestión, análisis web, infraestructura, automatización e inteligencia artificial.
 
 `Astro` `React` `TypeScript` `Tailwind` `Node.js` `MongoDB`
 
@@ -125,7 +125,7 @@ Entorno propio para centralizar herramientas de gestión, análisis, infraestruc
 
 **Auditoría web + Inteligencia Artificial**
 
-Auditoría Lighthouse, análisis móvil/desktop, informes y herramientas de IA para texto, email, redes, traducción y asistencia.
+Herramienta de auditoría con Lighthouse, análisis móvil y desktop, generación de informes y utilidades basadas en IA.
 
 `Lighthouse` `Web Audit` `IA` `Full Stack`
 
@@ -157,9 +157,9 @@ Auditoría Lighthouse, análisis móvil/desktop, informes y herramientas de IA p
 
 <br>
 
-**Productora audiovisual**
+**Web corporativa para productora audiovisual**
 
-Web oficial actualmente en producción.
+Desarrollo de la web oficial, actualmente publicada en producción.
 
 <br>
 
@@ -186,9 +186,9 @@ Web oficial actualmente en producción.
 
 <br>
 
-**Web oficial de Òrbita Sallent**
+**Desarrollo web y despliegue**
 
-Desarrollo y despliegue de la aplicación en infraestructura propia.
+Web oficial desarrollada y desplegada en infraestructura propia.
 
 `Astro` `VPS` `Coolify`
 
@@ -220,9 +220,9 @@ Desarrollo y despliegue de la aplicación en infraestructura propia.
 
 <br>
 
-**Web oficial de Obres i Serveis Mig Mon**
+**Web corporativa para empresa de obras y servicios**
 
-Proyecto web actualmente en producción.
+Desarrollo y publicación de su web oficial, actualmente en producción.
 
 <br>
 
@@ -249,9 +249,9 @@ Proyecto web actualmente en producción.
 
 <br>
 
-**Desarrollo Web & Soluciones Digitales**
+**Desarrollo web y soluciones digitales**
 
-Mi proyecto de desarrollo web, aplicaciones y soluciones digitales.
+Proyecto propio centrado en desarrollo web, aplicaciones y herramientas digitales a medida.
 
 `Astro` `React` `Tailwind` `Full Stack`
 
@@ -300,6 +300,6 @@ Mi proyecto de desarrollo web, aplicaciones y soluciones digitales.
 
 <br><br>
 
-### Desarrollo web · Aplicaciones Full Stack · Soluciones digitales
+### Desarrollo web · Aplicaciones Full Stack · IA y automatización
 
 </div>
