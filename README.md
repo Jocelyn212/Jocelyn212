@@ -92,7 +92,7 @@ Aplicaciones propias y proyectos reales actualmente en producción.
 ### LABORATORIO JCTECH
 
 <img
-  src="https://res.cloudinary.com/pruebaweb/image/upload/v1789878905/Imagenes%20para%20porfolio/Laboratorio.png"
+  src="https://res.cloudinary.com/pruebaweb/image/upload/f_auto,q_auto,w_1200/v1789878905/Imagenes%20para%20porfolio/Laboratorio.png"
   width="100%"
   alt="LaboratorioJCTech"
 />
@@ -116,7 +116,7 @@ Entorno propio para centralizar herramientas de gestión, análisis, infraestruc
 ### JCTECHSTUDIO TOOLS
 
 <img
-  src="https://res.cloudinary.com/pruebaweb/image/upload/v1789880392/Imagenes%20para%20porfolio/tools.png"
+  src="https://res.cloudinary.com/pruebaweb/image/upload/f_auto,q_auto,w_1200/v1789880392/Imagenes%20para%20porfolio/tools.png"
   width="100%"
   alt="JCTechStudio Tools"
 />
@@ -150,7 +150,7 @@ Auditoría Lighthouse, análisis móvil/desktop, informes y herramientas de IA p
 ### RODAR Y RODAR
 
 <img
-  src="https://res.cloudinary.com/pruebaweb/image/upload/v1789880185/Imagenes%20para%20porfolio/Captura_de_pantalla_2026-09-20_a_las_6.37.52_bpz6gw.png"
+  src="https://res.cloudinary.com/pruebaweb/image/upload/f_auto,q_auto,w_1200/v1789880185/Imagenes%20para%20porfolio/rodaryrodar.png"
   width="100%"
   alt="Rodar y Rodar"
 />
@@ -179,7 +179,7 @@ Web oficial actualmente en producción.
 ### ÒRBITA SALLENT
 
 <img
-  src="https://res.cloudinary.com/pruebaweb/image/upload/v1789880199/Imagenes%20para%20porfolio/Orbitasallent.png"
+  src="https://res.cloudinary.com/pruebaweb/image/upload/f_auto,q_auto,w_1200/v1789880199/Imagenes%20para%20porfolio/Orbitasallent.png"
   width="100%"
   alt="Òrbita Sallent"
 />
@@ -213,7 +213,7 @@ Desarrollo y despliegue de la aplicación en infraestructura propia.
 ### OBRES I SERVEIS MIG MON
 
 <img
-  src="https://res.cloudinary.com/pruebaweb/image/upload/v1789880204/Imagenes%20para%20porfolio/obresiserveismigmon.png"
+  src="https://res.cloudinary.com/pruebaweb/image/upload/f_auto,q_auto,w_1200/v1789880204/Imagenes%20para%20porfolio/obresiserveismigmon.png"
   width="100%"
   alt="Obres i Serveis Mig Mon"
 />
@@ -242,7 +242,7 @@ Proyecto web actualmente en producción.
 ### JCTECHSTUDIO
 
 <img
-  src="https://res.cloudinary.com/pruebaweb/image/upload/v1789880391/Imagenes%20para%20porfolio/jctechstudio.png"
+  src="https://res.cloudinary.com/pruebaweb/image/upload/f_auto,q_auto,w_1200/v1789880391/Imagenes%20para%20porfolio/jctechstudio.png"
   width="100%"
   alt="JCTechStudio"
 />
